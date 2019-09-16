@@ -17,6 +17,6 @@ Alunos:
 |Nome|Matricula|git|
 |--|--|--|
 |Caio Gabriel Araujo Medeiros |15/0007329|[@CaioGabrielAraujo](https://github.com/CaioGabrielAraujo)|
-|Joao Gabriel Saliba ||[@]()|
+|Joao Gabriel Saliba |15/0012934|[@](https://github.com/joaosaliba)|
 
 ### Executar programa
